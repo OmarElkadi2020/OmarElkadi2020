@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @OmarElkadi2020
+- 👋 Hi, I’m Omar
 - 👀 I’m interested in IoT
 - 🌱 I’m currently learning Data Engineering
 - 💞️ I’m looking to collaborate on IoT Projects
